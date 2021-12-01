@@ -1,0 +1,155 @@
+Line 105: Class SOTADropDownControl.SOTADropDown of control sddEstatusReq was not a loaded control class.
+Line 145: Class FPSpreadADO.fpSpread of control grdReqLineDtl was not a loaded control class.
+Line 172: Class SOTACalendarControl.SOTACalendar of control CustomDate was not a loaded control class.
+Line 197: Class FPSpreadADO.fpSpread of control grdReqLines was not a loaded control class.
+Line 221: Class SOTADropDownControl.SOTADropDown of control cboExpReason was not a loaded control class.
+Line 304: Class MSComCtl2.UpDown of control CustomSpin was not a loaded control class.
+Line 318: Class NEWSOTALib.SOTACurrency of control CustomCurrency was not a loaded control class.
+Line 346: Class NEWSOTALib.SOTANumber of control CustomNumber was not a loaded control class.
+Line 374: Class NEWSOTALib.SOTAMaskedEdit of control CustomMask was not a loaded control class.
+Line 399: Class NEWSOTALib.SOTACustomizer of control picDrag was not a loaded control class.
+Line 413: Class EntryLookupControls.TextLookup of control lkuDept was not a loaded control class.
+Line 427: Class SOTACalendarControl.SOTACalendar of control calDate was not a loaded control class.
+Line 450: Class EntryLookupControls.TextLookup of control lkuMain was not a loaded control class.
+Line 467: Class StatusBar.SOTAStatusBar of control sbrMain was not a loaded control class.
+Line 478: Class SOTAToolbarControl.SOTAToolbar of control tbrMain was not a loaded control class.
+Line 539: Class SysInfoLib.SysInfo of control SysInfo1 was not a loaded control class.
+Line 555: Class LookupViewControl.LookupView of control navItemGrid was not a loaded control class.
+Line 566: Class LookupViewControl.LookupView of control navVendorGrid was not a loaded control class.
+Line 577: Class LookupViewControl.LookupView of control navDeptGrid was not a loaded control class.
+Line 588: Class LookupViewControl.LookupView of control navSTaxGrid was not a loaded control class.
+Line 599: Class EntryLookupControls.TextLookup of control lkuWarehouse was not a loaded control class.
+Line 613: Class LookupViewControl.LookupView of control navWhseGrid was not a loaded control class.
+Line 624: Class SOTADropDownControl.SOTADropDown of control sddType was not a loaded control class.
+Line 646: Class SOTACalendarControl.SOTACalendar of control calAutorizaReq was not a loaded control class.
+Line 671: Class SOTACalendarControl.SOTACalendar of control calAceptaReq was not a loaded control class.
+Line 696: Class SOTACalendarControl.SOTACalendar of control cal2doAutorizaReq was not a loaded control class.
+Line 721: Class LookupViewControl.LookupView of control navBuyerGrid was not a loaded control class.
+Line 111: The property name _ExtentX in sddEstatusReq is invalid.
+Line 112: The property name _ExtentY in sddEstatusReq is invalid.
+Line 122: The property name Style in sddEstatusReq is invalid.
+Line 123: The property name Text in sddEstatusReq is invalid.
+Line 124: The property name StaticListTableName in sddEstatusReq is invalid.
+Line 125: The property name StaticListColumnName in sddEstatusReq is invalid.
+Line 153: The property name _Version in grdReqLineDtl is invalid.
+Line 154: The property name _ExtentX in grdReqLineDtl is invalid.
+Line 155: The property name _ExtentY in grdReqLineDtl is invalid.
+Line 156: The property name _StockProps in grdReqLineDtl is invalid.
+Line 167: The property name MaxCols in grdReqLineDtl is invalid.
+Line 168: The property name MaxRows in grdReqLineDtl is invalid.
+Line 169: The property name SpreadDesigner in grdReqLineDtl is invalid.
+Line 170: The property name AppearanceStyle in grdReqLineDtl is invalid.
+Line 180: The property name _ExtentX in CustomDate is invalid.
+Line 181: The property name _ExtentY in CustomDate is invalid.
+Line 193: The property name MaskedText in CustomDate is invalid.
+Line 194: The property name Protected in CustomDate is invalid.
+Line 195: The property name Text in CustomDate is invalid.
+Line 204: The property name _Version in grdReqLines is invalid.
+Line 205: The property name _ExtentX in grdReqLines is invalid.
+Line 206: The property name _ExtentY in grdReqLines is invalid.
+Line 207: The property name _StockProps in grdReqLines is invalid.
+Line 217: The property name NoBeep in grdReqLines is invalid.
+Line 218: The property name SpreadDesigner in grdReqLines is invalid.
+Line 219: The property name AppearanceStyle in grdReqLines is invalid.
+Line 228: The property name _ExtentX in cboExpReason is invalid.
+Line 229: The property name _ExtentY in cboExpReason is invalid.
+Line 239: The property name Text in cboExpReason is invalid.
+Line 313: The property name _ExtentX in CustomSpin is invalid.
+Line 314: The property name _ExtentY in CustomSpin is invalid.
+Line 315: The property name _Version in CustomSpin is invalid.
+Line 328: The property name _Version in CustomCurrency is invalid.
+Line 329: The property name _ExtentX in CustomCurrency is invalid.
+Line 330: The property name _ExtentY in CustomCurrency is invalid.
+Line 331: The property name _StockProps in CustomCurrency is invalid.
+Line 342: The property name mask in CustomCurrency is invalid.
+Line 343: The property name text in CustomCurrency is invalid.
+Line 344: The property name sDecimalPlaces in CustomCurrency is invalid.
+Line 356: The property name _Version in CustomNumber is invalid.
+Line 357: The property name _ExtentX in CustomNumber is invalid.
+Line 358: The property name _ExtentY in CustomNumber is invalid.
+Line 359: The property name _StockProps in CustomNumber is invalid.
+Line 370: The property name mask in CustomNumber is invalid.
+Line 371: The property name text in CustomNumber is invalid.
+Line 372: The property name sDecimalPlaces in CustomNumber is invalid.
+Line 384: The property name _Version in CustomMask is invalid.
+Line 385: The property name _ExtentX in CustomMask is invalid.
+Line 386: The property name _ExtentY in CustomMask is invalid.
+Line 387: The property name _StockProps in CustomMask is invalid.
+Line 408: The property name _Version in picDrag is invalid.
+Line 409: The property name _ExtentX in picDrag is invalid.
+Line 410: The property name _ExtentY in picDrag is invalid.
+Line 411: The property name _StockProps in picDrag is invalid.
+Line 420: The property name _ExtentX in lkuDept is invalid.
+Line 421: The property name _ExtentY in lkuDept is invalid.
+Line 423: The property name LookupID in lkuDept is invalid.
+Line 424: The property name Datatype in lkuDept is invalid.
+Line 425: The property name sSQLReturnCols in lkuDept is invalid.
+Line 435: The property name _ExtentX in calDate is invalid.
+Line 436: The property name _ExtentY in calDate is invalid.
+Line 446: The property name MaskedText in calDate is invalid.
+Line 447: The property name Text in calDate is invalid.
+Line 448: The property name Object.CausesValidation in calDate is invalid.
+Line 457: The property name _ExtentX in lkuMain is invalid.
+Line 458: The property name _ExtentY in lkuMain is invalid.
+Line 460: The property name LookupMode in lkuMain is invalid.
+Line 461: The property name MaxLength in lkuMain is invalid.
+Line 462: The property name LookupID in lkuMain is invalid.
+Line 463: The property name BoundColumn in lkuMain is invalid.
+Line 464: The property name BoundTable in lkuMain is invalid.
+Line 465: The property name sSQLReturnCols in lkuMain is invalid.
+Line 474: The property name _ExtentX in sbrMain is invalid.
+Line 475: The property name _ExtentY in sbrMain is invalid.
+Line 476: The property name MessageVisible in sbrMain is invalid.
+Line 487: The property name _ExtentX in tbrMain is invalid.
+Line 488: The property name _ExtentY in tbrMain is invalid.
+Line 489: The property name Style in tbrMain is invalid.
+Line 542: The property name _ExtentX in SysInfo1 is invalid.
+Line 543: The property name _ExtentY in SysInfo1 is invalid.
+Line 544: The property name _Version in SysInfo1 is invalid.
+Line 562: The property name _ExtentX in navItemGrid is invalid.
+Line 563: The property name _ExtentY in navItemGrid is invalid.
+Line 564: The property name LookupMode in navItemGrid is invalid.
+Line 573: The property name _ExtentX in navVendorGrid is invalid.
+Line 574: The property name _ExtentY in navVendorGrid is invalid.
+Line 575: The property name LookupMode in navVendorGrid is invalid.
+Line 584: The property name _ExtentX in navDeptGrid is invalid.
+Line 585: The property name _ExtentY in navDeptGrid is invalid.
+Line 586: The property name LookupMode in navDeptGrid is invalid.
+Line 595: The property name _ExtentX in navSTaxGrid is invalid.
+Line 596: The property name _ExtentY in navSTaxGrid is invalid.
+Line 597: The property name LookupMode in navSTaxGrid is invalid.
+Line 606: The property name _ExtentX in lkuWarehouse is invalid.
+Line 607: The property name _ExtentY in lkuWarehouse is invalid.
+Line 609: The property name LookupID in lkuWarehouse is invalid.
+Line 610: The property name Datatype in lkuWarehouse is invalid.
+Line 611: The property name sSQLReturnCols in lkuWarehouse is invalid.
+Line 620: The property name _ExtentX in navWhseGrid is invalid.
+Line 621: The property name _ExtentY in navWhseGrid is invalid.
+Line 622: The property name LookupMode in navWhseGrid is invalid.
+Line 630: The property name _ExtentX in sddType is invalid.
+Line 631: The property name _ExtentY in sddType is invalid.
+Line 641: The property name Style in sddType is invalid.
+Line 642: The property name Text in sddType is invalid.
+Line 643: The property name StaticListTableName in sddType is invalid.
+Line 644: The property name StaticListColumnName in sddType is invalid.
+Line 653: The property name _ExtentX in calAutorizaReq is invalid.
+Line 654: The property name _ExtentY in calAutorizaReq is invalid.
+Line 666: The property name MaskedText in calAutorizaReq is invalid.
+Line 667: The property name Protected in calAutorizaReq is invalid.
+Line 668: The property name Text in calAutorizaReq is invalid.
+Line 669: The property name Object.CausesValidation in calAutorizaReq is invalid.
+Line 678: The property name _ExtentX in calAceptaReq is invalid.
+Line 679: The property name _ExtentY in calAceptaReq is invalid.
+Line 691: The property name MaskedText in calAceptaReq is invalid.
+Line 692: The property name Protected in calAceptaReq is invalid.
+Line 693: The property name Text in calAceptaReq is invalid.
+Line 694: The property name Object.CausesValidation in calAceptaReq is invalid.
+Line 703: The property name _ExtentX in cal2doAutorizaReq is invalid.
+Line 704: The property name _ExtentY in cal2doAutorizaReq is invalid.
+Line 716: The property name MaskedText in cal2doAutorizaReq is invalid.
+Line 717: The property name Protected in cal2doAutorizaReq is invalid.
+Line 718: The property name Text in cal2doAutorizaReq is invalid.
+Line 719: The property name Object.CausesValidation in cal2doAutorizaReq is invalid.
+Line 728: The property name _ExtentX in navBuyerGrid is invalid.
+Line 729: The property name _ExtentY in navBuyerGrid is invalid.
+Line 730: The property name LookupMode in navBuyerGrid is invalid.
