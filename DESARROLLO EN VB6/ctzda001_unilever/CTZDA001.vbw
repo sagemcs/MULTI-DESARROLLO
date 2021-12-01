@@ -1,0 +1,10 @@
+frmContract = 0, 0, 0, 0, C, 50, 50, 676, 402, C
+basConstant = 0, 0, 0, 0, C
+basLocalizationConst = 0, 0, 0, 0, C
+basWinAPI = 0, 0, 0, 0, C
+basAppErrHandler = 0, 0, 0, 0, C
+clsCTZDA001 = 0, 0, 0, 0, C
+basCTZDA001 = 0, 0, 0, 0, C
+frmChngOrd = 0, 0, 0, 0, C, 25, 25, 651, 377, C
+frmContractChg = 0, 0, 0, 0, C, 100, 100, 726, 452, C
+frmContractBank = 0, 0, 0, 0, C, 75, 75, 701, 427, C
