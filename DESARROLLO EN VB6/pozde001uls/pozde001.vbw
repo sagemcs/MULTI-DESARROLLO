@@ -1,0 +1,13 @@
+basRequistn = 0, 0, 0, 0, C
+clsrequistn = 50, 50, 955, 321, 
+frmSelectReqLines = -43, 107, 862, 376, , 25, 25, 651, 377, C
+clsPushPull = 0, 0, 0, 0, C
+basWinAPI = 0, 0, 0, 0, C
+basAppErrHandler = 0, 0, 0, 0, C
+basConstant = 0, 0, 0, 0, C
+basTaskIDs = 0, 0, 0, 0, C
+clsLink = 0, 0, 0, 0, C
+basLocalizationConst = 0, 0, 0, 0, C
+frmRequistn = 23, 41, 810, 393, Z, 25, 25, 812, 377, C
+frmChngOrd = 50, 50, 908, 295, , 100, 100, 771, 425, C
+frmContractAssociate = 75, 75, 862, 426, , 50, 50, 837, 401, C

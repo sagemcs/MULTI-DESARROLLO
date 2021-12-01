@@ -1,0 +1,1 @@
+update s set s.LeftPos = null, s.TopPos = null from tsmCustomForm as p join tsmCustomFormDetl as s on p.CustomFormKey = s.CustomFormKey where p.FormName = 'frmRequistn' and s.ControlName = 'cmdGenerate'

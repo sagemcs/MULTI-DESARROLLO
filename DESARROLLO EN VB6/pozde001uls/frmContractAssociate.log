@@ -1,0 +1,12 @@
+Line 33: Class EntryLookupControls.TextLookup of control lkuSuplement was not a loaded control class.
+Line 46: Class EntryLookupControls.TextLookup of control lkuContract was not a loaded control class.
+Line 39: The property name _ExtentX in lkuSuplement is invalid.
+Line 40: The property name _ExtentY in lkuSuplement is invalid.
+Line 42: The property name LookupID in lkuSuplement is invalid.
+Line 43: The property name Datatype in lkuSuplement is invalid.
+Line 44: The property name sSQLReturnCols in lkuSuplement is invalid.
+Line 52: The property name _ExtentX in lkuContract is invalid.
+Line 53: The property name _ExtentY in lkuContract is invalid.
+Line 55: The property name LookupID in lkuContract is invalid.
+Line 56: The property name Datatype in lkuContract is invalid.
+Line 57: The property name sSQLReturnCols in lkuContract is invalid.

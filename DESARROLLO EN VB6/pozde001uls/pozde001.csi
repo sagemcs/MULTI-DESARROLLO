@@ -1,0 +1,11 @@
+[History]
+1=#P0#=mb	#P1#=FormatGrid	#P2#=pozde001/frmRequistn/FormatGrid	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20190827164619	#P7#=0	#P8#=21	.
+2=#P0#=mb	#P1#=DMGridRowLoaded	#P2#=pozde001/frmRequistn/DMGridRowLoaded	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20190827104607	#P7#=0	#P8#=22	.
+3=#P0#=mb	#P1#=LoadLineDflts	#P2#=pozde001/frmRequistn/LoadLineDflts	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20190826163041	#P7#=0	#P8#=43	.
+4=#P0#=mb	#P1#=lGetNextSurrogateKey	#P2#=pozde001/basRequistn/lGetNextSurrogateKey	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20190826162834	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=moGM_CellChange	#P2#=pozde001/frmRequistn/moGM_CellChange	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20190826150036	#P7#=0	#P8#=21	.
+6=#P0#=mb	#P1#=navItemGrid_Click	#P2#=pozde001/frmRequistn/navItemGrid_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20190826145951	#P7#=0	#P8#=1	.
+7=#P0#=mb	#P1#=grdReqLines_Change	#P2#=pozde001/frmRequistn/grdReqLines_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20190826145853	#P7#=0	#P8#=1	.
+8=#P0#=mb	#P1#=grdReqLines_ButtonClicked	#P2#=pozde001/frmRequistn/grdReqLines_ButtonClicked	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20190826145837	#P7#=0	#P8#=1	.
+9=#P0#=mb	#P1#=RemoveLastRowFromGrid	#P2#=pozde001/frmRequistn/RemoveLastRowFromGrid	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20190826102625	#P7#=0	#P8#=6	.
+10=#P0#=mb	#P1#=BindForm	#P2#=pozde001/frmRequistn/BindForm	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20190826150923	#P7#=0	#P8#=78	.
